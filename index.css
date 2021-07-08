@@ -1,0 +1,12 @@
+div {
+    border: 1px solid;
+}
+.parent {
+    width: 300px;
+    height: 100px;
+    display: flex;  
+}
+
+.parent div {
+    flex: 1;
+}
